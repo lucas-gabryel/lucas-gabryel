@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🖥 Desenvolvedor Front-End <br>✨ Impactando positivamente a vida das pessoas com tecnologia <br>🎓 Graduando em Sistemas de Informação - IFAL</p>
+<p align="left">🖥 Quality Assurance e Desenvolvedor Front-End <br>✨ Impactando positivamente a vida das pessoas com tecnologia <br>🎓 Graduando em Sistemas de Informação - IFAL</p>
 
 ###
 
