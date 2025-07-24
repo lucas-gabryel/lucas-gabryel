@@ -6,7 +6,7 @@ Sou estudante de Sistemas de Informação no IFAL e apaixonado por tecnologia. A
 
 - HTML, CSS, JavaScript, TypeScript
 - React.js, Next.js
-- Java & Spring Boot (em breve)
+- Java & Spring Boot
 - Firebase, Vercel
 - Figma
 
