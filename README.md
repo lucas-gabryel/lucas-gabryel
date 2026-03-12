@@ -16,12 +16,8 @@ Atualmente focado em arquitetura escalável e entrega de valor em sistemas de al
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-gabryel&layout=compact&theme=cobalt&hide_border=true&title_color=fff&text_color=f3f3f3&locale=pt-br" height="180" />
 </p>
 
----
-
 ### 🤝 Contato para Projetos
 
 Se você busca um desenvolvedor com experiência em ambientes de alta exigência para tirar seu projeto do papel ou escalar sua solução atual, entre em contato:
 
 **[Acessar perfil no LinkedIn](https://www.linkedin.com/in/lucas-gabryel/)** **[Enviar e-mail profissional](mailto:lucas-gabryel@outlook.com)**
-
----
