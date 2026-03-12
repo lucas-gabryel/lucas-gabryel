@@ -1,7 +1,7 @@
 ### Olá, sou Lucas Gabryel 👨🏻‍💻
 #### Desenvolvedor de Software
 
-Atualmente focado em arquitetura escalável e entrega de valor em sistemas de alta criticidade. Minha abordagem une rigor técnico na engenharia de software com uma visão estratégica voltada para resultados de negócio, aplicando esses fundamentos hoje no ecossistema de grandes empresas como a multinacional [Edenred](https://www.edenred.com.br/).
+Atualmente focado em arquitetura escalável e entrega de valor em sistemas de alta criticidade. Minha abordagem une rigor técnico na engenharia de software com uma visão estratégica voltada para resultados de negócio, aplicando esses fundamentos hoje no ecossistema de grandes empresas como a multinacional <a href="https://www.edenred.com.br/" target="_blank">Edenred</a>.
 
 ### 🛠️ Expertise Técnica
 
@@ -20,4 +20,6 @@ Atualmente focado em arquitetura escalável e entrega de valor em sistemas de al
 
 Se você busca um desenvolvedor com experiência em ambientes de alta exigência para tirar seu projeto do papel ou escalar sua solução atual, entre em contato:
 
-**[Acessar perfil no LinkedIn](https://www.linkedin.com/in/lucas-gabryel/)** **[Enviar e-mail profissional](mailto:lucas-gabryel@outlook.com)**
+<a href="https://www.linkedin.com/in/lucas-gabryel/" target="_blank"><strong>Acessar perfil no LinkedIn</strong></a> 
+&nbsp;&nbsp;|&nbsp;&nbsp; 
+<a href="mailto:lucas-gabryel@outlook.com" target="_blank"><strong>Enviar e-mail profissional</strong></a>
